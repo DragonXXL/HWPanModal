@@ -955,7 +955,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-SwiftDemo/Pods-SwiftDemo-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/HWPanModal-iOS10.0/HWPanModal.framework",
+				"${BUILT_PRODUCTS_DIR}/HWPanModal/HWPanModal.framework",
 				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -975,7 +975,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-HWPanModalDemo/Pods-HWPanModalDemo-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/HWPanModal-iOS8.0/HWPanModal.framework",
+				"${BUILT_PRODUCTS_DIR}/HWPanModal/HWPanModal.framework",
 				"${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework",
 				"${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework",
 			);
@@ -1341,7 +1341,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K4R83Q5KV5;
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.heath.wang.HWPanModalDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1359,7 +1359,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K4R83Q5KV5;
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.heath.wang.HWPanModalDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
