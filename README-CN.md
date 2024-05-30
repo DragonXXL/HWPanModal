@@ -104,7 +104,7 @@ APP中常见的从底部弹出视图，可以通过该框架快速实现，只�
 ### [CocoaPods](https://guides.cocoapods.org/using/using-cocoapods.html)
 
 ```ruby
-pod 'HWPanModal', '~> 0.9.4'
+pod 'HWPanModal', '~> 0.9.9'
 ```
 
 ## 如何使用
