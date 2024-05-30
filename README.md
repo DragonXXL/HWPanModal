@@ -310,6 +310,10 @@ HWSimplePanModalView *simplePanModalView = [HWSimplePanModalView new];
 
 ###### I have wrote both **pure** `Objective-C` & `Swift`Examples , for most of the framework functions.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HeathWang/HWPanModal&type=Date)](https://star-history.com/#HeathWang/HWPanModal&Date)
+
 ## Contact Me
 
 Heath Wang
